@@ -153,11 +153,11 @@ root              2458   0.0  0.2 407931920   4496   ??  Ss   12:32AM   0:00.10 
 
 ## Frida Playground
 
-解析の対象となるアプリケーションをインストールします
+解析の対象となる[アプリケーション](https://github.com/NVISOsecurity/frida-ios-playground/releases/tag/v1.0)をインストールします
 
 - [Frida iOS Playground](https://github.com/NVISOsecurity/frida-ios-playground)
 
-Sideloadlyでインストールしたら、完了です
+SideloadlyでPlayground-v1.0.ipaをインストールします
 
 > Sideloadlyでのアプリのインストール方法は調べたらたくさん出てくるので各自調べてください
 
