@@ -97,6 +97,7 @@ web_modules/
 .env.test.local
 .env.production.local
 .env.local
+!.env.example
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -340,5 +341,7 @@ pip-selfcheck.json
 # End of https://www.toptal.com/developers/gitignore/api/linux,node,python,venv
 
 # VirtualEnv
-
 .envrc
+
+# Frida
+__handlers__
