@@ -190,6 +190,7 @@ $ frida-trace -f eu.nviso.fridaplayground -m "-[VulnerableVault setSecretInt:]"
 
 ### 本記事の内容へ
 
+- [とある東洋の国の物語](/docs/01.md)
 
 ## エラーが発生したときは
 
