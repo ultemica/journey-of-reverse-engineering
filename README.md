@@ -79,6 +79,10 @@ $ ssh -o PreferredAuthentications=password -o PubkeyAuthentication=no -o StrictH
 
 > XXX.YYYのところは各自のiDeviceのローカルアドレスにしてください
 
+デフォルトパスワードは`alpine`で、このパスワードを前提としたアプリケーションも多いので`alpine`に設定すると便利なことが多いです
+
+ただし、外部からの攻撃に対して極めて弱くなるため、デフォルトパスワードのデバイスを外部のネットワークに接続するのは避けるようにしましょう
+
 ```zsh
 var/
 └── jb/
