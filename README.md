@@ -202,9 +202,14 @@ Pythonの仮想環境が有効になっていません
 
 ### `Failed to enumerate applications: unable to connect to remote frida-server`
 
-デバイスのIPアドレスが間違っています
+以下の理由がが考えられます
 
-`.env`が存在するか、`FRIDA_HOST`の値が間違っていないか確認してください
+- デバイスのIPアドレスが間違っています
+- デバイスにOpenSSH Serverがインストールされていません
+- デバイスがWiFiに接続していません
+- デバイスとPCが共通のルーターに接続していません
+- `.env`が存在しません
+- `FRIDA_HOST`の値が間違っています
 
 ## 備考
 
