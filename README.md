@@ -205,3 +205,14 @@ Pythonの仮想環境が有効になっていません
 デバイスのIPアドレスが間違っています
 
 `.env`が存在するか、`FRIDA_HOST`の値が間違っていないか確認してください
+
+## 備考
+
+本レポジトリの内容には万全を期していますが、万が一通らないコードやコマンドがあった場合には[Issues](https://github.com/login?return_to=https://github.com/ultemica/journey-of-reverse-engineering/issues)を立てていただけると助かります
+
+### Special Thanks
+
+- [jojojojougi](https://x.com/jojojojougi)
+- [soltia48](https://x.com/soltia48)
+- [19AJ237](https://x.com/19AJ137)
+- [0ppaikoa](https://x.com/0ppaikoa)
