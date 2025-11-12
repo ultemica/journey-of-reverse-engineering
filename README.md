@@ -196,7 +196,9 @@ $ frida-trace -f eu.nviso.fridaplayground -m "-[VulnerableVault setSecretInt:]"
 
 ### `zsh: command not found: frida-pa`
 
-Pythonの仮想環境が有効になっていません
+以下の理由がが考えられます
+
+- Pythonの仮想環境が有効になっていません
 
 `source /home/vscode/app/.venv/bin/activate`を実行するか`direnv allow`をしてから新しくタブを開いて、再度`frida-ps`を実行してみてください
 
