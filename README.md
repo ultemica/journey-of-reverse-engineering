@@ -159,7 +159,9 @@ root              2458   0.0  0.2 407931920   4496   ??  Ss   12:32AM   0:00.10 
 
 Sideloadlyでインストールしたら、完了です
 
-> Sideloadlyのインストール方法は調べたらたくさん出てくるので各自調べてください
+> Sideloadlyでのアプリのインストール方法は調べたらたくさん出てくるので各自調べてください
+
+また、[TrollStore](https://ios.cfw.guide/installing-trollstore/)が利用できる場合にはそちらを利用したほうが良いです
 
 ## チュートリアル
 
